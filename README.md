@@ -63,7 +63,7 @@ StoreManagerUI/
 
 ### **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/StoreManagerUI.git
+git clone https://github.com/teamorbit1/StoreManagerUI.git
 cd StoreManagerUI
 ```
 
